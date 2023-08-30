@@ -24,4 +24,17 @@ The second line contains $n$  space-separated integers, $ar[i]$ , the colors of 
 Constraints:  
 $1 \leq n \leq 100$  
 $1 \leq ar[i] \leq 100$  where   
-$0 \leq i < n $
+$0 \leq i < n $  
+Sample Input
+
+STDIN                       Function
+-----                       --------
+9                             n = 9  
+
+10 20 20 10 10 30 50 10 20   
+ar = [10, 20, 20, 10, 10, 30, 50, 10, 20]  
+
+Sample Output  
+
+
+3
